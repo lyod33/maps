@@ -33,9 +33,9 @@
     <dependencies>
         <dependency>
 		<dependency>
-  <groupId>org.cadixdev</groupId>
-  <artifactId>atlas</artifactId>
-  <version>0.2.0</version>
+        <groupId>org.cadixdev</groupId>
+        <artifactId>atlas</artifactId>
+        <version>0.2.0</version>
 </dependency>
             <groupId>uk.ac.ebi.gxa</groupId>
             <artifactId>atlas-web</artifactId>
